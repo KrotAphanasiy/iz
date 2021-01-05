@@ -1,0 +1,8 @@
+2 3
+136AE3 000BF1 128702
+110088 ABEE04 C40001
+4
+A : rotate : 180
+BC : upscale : 1 2
+B : flip : H
+AC : downscale : 1 2

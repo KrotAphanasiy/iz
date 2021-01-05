@@ -1,0 +1,17 @@
+4 4
+571D4E 31752E F452F8 44BE80
+17621C 92558A 024D90 3E94B2
+62E7F7 FEAD1F A7EE1A A5C8DE
+66577C 2B135C 01F29E 0898DF
+11
+A : rotate : 180
+B : flip : H
+C : upscale : 2 1
+A : downscale : 1 2
+B : bright : 2
+C : rotate : 270
+AB : flip : V
+AC : upscale : 1 4
+BC : downscale : 1 1
+ABC : bright : -4
+ABC : grayscale

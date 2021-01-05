@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Владелец\source\repos\Individual_Task\Individual_Task\Image_Processing.h(17,2): warning C4091: typedef : пропускается слева от "Component", когда ни одна переменная не объявлена
+C:\Users\Владелец\source\repos\Individual_Task\Individual_Task\Image_Processing.h(25,2): warning C4091: typedef : пропускается слева от "Image", когда ни одна переменная не объявлена
+C:\Users\Владелец\source\repos\Individual_Task\Individual_Task\Image_Processing.h(32,2): warning C4091: typedef : пропускается слева от "Command", когда ни одна переменная не объявлена
+  Individual_Task.vcxproj -> C:\Users\Владелец\source\repos\Individual_Task\Debug\Individual_Task.exe
